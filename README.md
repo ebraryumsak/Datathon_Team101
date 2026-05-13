@@ -1,4 +1,4 @@
-# BrainBoost AI — Uyku ve Bilişsel Performans Tahmin Sistemi
+# Uyku ve Bilişsel Performans Tahmin Sistemi
 
 ## Proje Hakkında
 
